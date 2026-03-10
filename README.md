@@ -1,16 +1,48 @@
-# presskit
+# PressKit
 
-A new Flutter project.
+This project demonstrates a reusable custom button widget built using Flutter.
 
-## Getting Started
+The button supports loading state, customizable styles, and navigation between screens.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+* Reusable custom button
+* Loading state support
+* Custom styling options
+* Navigation between pages
+* Background image UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Structure
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+lib/
+
+* screens/
+* widgets/
+* main.dart
+
+assets/
+
+* images/
+
+screenshots/
+
+* home_screen.png
+* loading_state.png
+* second_screen.png
+
+## Screenshots
+
+### Home Screen
+
+<img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/c128b769-6664-4b88-ba84-fceb2929c296" />
+
+
+### Second Screen
+
+<img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/6fb93f7a-ad0e-421f-9d6a-35168e3638a7" />
+
+
+## Author
+
+Payal Chandrapal Chapre
+
